@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:id="@+id/action_one_page_view"
+        android:icon="@drawable/open_pages"
+        android:title="Add Creditor"
+        app:showAsAction="ifRoom"></item>
+
+    <item
+        android:id="@+id/action_grid_view"
+        android:icon="@drawable/grid_menu"
+        android:title="Add Creditor"
+        app:showAsAction="ifRoom"></item>
+
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/home"
+        android:title="Add Creditor"
+        app:showAsAction="ifRoom"></item>
+
+</menu>
